@@ -5,11 +5,11 @@ As you have been learning, the data analytics field is dynamic, spanning a varie
 
 There are so many different industries taking advantage of data analytics in so many different ways. Here is just a sample of some of these industries and how they use data:
 
-**Industry**
+"***Industry***"
 
-**Overview**
+"***Overview***"
 
-**How data is used**
+"***How data is used***"
 
 App-driven business (sharing economy service)
 

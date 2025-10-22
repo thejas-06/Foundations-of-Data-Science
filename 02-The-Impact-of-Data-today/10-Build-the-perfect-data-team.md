@@ -75,4 +75,7 @@ Broadening the scope of an organization takes time and consistency of results. T
 
 Pro tip: Focus on communicating clearly with stakeholders. Maintain a commitment to consistency between what you have promised and what you will deliver.
 
-Key takeaways Organizations carefully consider the individuals they bring into their organization and seek candidates that embody qualities that go beyond data skills. Additionally, companies can influence their adaptability by hiring data professionals that embody the spirit of lifelong learning, effective communication, interpersonal skills, and the ability to solve problems.
+Key takeaways
+-------------
+
+ Organizations carefully consider the individuals they bring into their organization and seek candidates that embody qualities that go beyond data skills. Additionally, companies can influence their adaptability by hiring data professionals that embody the spirit of lifelong learning, effective communication, interpersonal skills, and the ability to solve problems.

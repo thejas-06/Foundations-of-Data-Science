@@ -1,6 +1,5 @@
 # Data Analytics Career Outlook - Notes
 
-## Detailed Notes
 
 ### Career Growth and Demand
 - Data-focused careers have **expanded rapidly** over the past decade.  
